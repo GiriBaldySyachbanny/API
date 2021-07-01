@@ -1,0 +1,16 @@
+{
+  "contacts": [
+    {
+      "id": "UUD1",
+      "name": "GiriSyachbanny",
+      "email": "GIri122@gmail.com",
+      "address": "Bekasi,Tambun, Indonesia",
+      "gender": "male",
+      "phone": {
+        "mobile": "+62 111111111111",
+        "home": "08222880810238",
+        "office": "08221373982182"
+      }
+    }
+  ]
+}
